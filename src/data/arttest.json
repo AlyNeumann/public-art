@@ -1,0 +1,538 @@
+{
+    "type": "Public Art Collection",
+    "features": [
+        {
+           "Titre":"Source",
+           "ID":1,
+           "TitreVariante":null,
+           "DateFinProduction":"\/Date(1291352400000-0500)\/",
+           "NomCollection":"Art public",
+           "NomCollectionAng":"Public art",
+           "CategorieObjet":"Beaux-arts",
+           "CategorieObjetAng":"Fine Arts",
+           "SousCategorieObjet":"Sculpture",
+           "SousCategorieObjetAng":"Sculpture",
+           "ModeAcquisition":"Intégration des arts à l'architecture",
+           "ModeAcquisitionAng":" ",
+           "DateAccession":"\/Date(1270785600000-0400)\/",
+           "Materiaux":"Bronze",
+           "MateriauxAng":"Bronze ",
+           "Support":null,
+           "SupportAng":null,
+           "Technique":"Bronze coulé; boulonné",
+           "TechniqueAng":"Cast bronze; bolted",
+           "DimensionsGenerales":"549 x 466 x 466 cm",
+           "Arrondissement":"Côte-des-Neiges–Notre-Dame-de-Grâce",
+           "Parc":"Parc Benny",
+           "Batiment":"Centre sportif Notre-Dame-de Grâce",
+           "AdresseCivique":"6445, avenue Monkland, Montréal",
+           "CoordonneeLatitude":"45.466405",
+           "CoordonneeLongitude":"-73.631648",
+           "Artistes":[
+              {
+                 "NoInterne":960,
+                 "Nom":"Coutu",
+                 "Prenom":"Patrick",
+                 "NomCollectif":null
+              }
+           ],
+           "Mediums":[
+     
+           ],
+           "NoInterne":962,
+           "NumeroAccession":"2010-AP-SC-0011"
+        },
+        {
+           "Titre":"Porte de jour",
+           "ID":2,
+           "TitreVariante":"Une porte rouge (ouverte, rougeâtre, solaire)",
+           "DateFinProduction":"\/Date(1093492800000-0400)\/",
+           "NomCollection":"Art public",
+           "NomCollectionAng":"Public art",
+           "CategorieObjet":"Beaux-arts",
+           "CategorieObjetAng":"Fine Arts",
+           "SousCategorieObjet":"Installation",
+           "SousCategorieObjetAng":"Installation",
+           "ModeAcquisition":"Commande publique de la Ville de Montréal (Concours sur invitation)",
+           "ModeAcquisitionAng":"Public commission from the Ville de Montréal (competition by invitation)",
+           "DateAccession":"\/Date(1082865600000-0400)\/",
+           "Materiaux":"acier corten",
+           "MateriauxAng":"Corten steel",
+           "Support":null,
+           "SupportAng":null,
+           "Technique":"Soudé",
+           "TechniqueAng":"Welded",
+           "DimensionsGenerales":"298 x 350 x 1070 cm",
+           "Arrondissement":"Ville-Marie",
+           "Parc":"Square Dalhousie",
+           "Batiment":null,
+           "AdresseCivique":null,
+           "CoordonneeLatitude":"45.512090",
+           "CoordonneeLongitude":"-73.550979",
+           "Artistes":[
+              {
+                 "NoInterne":1098,
+                 "Nom":"Alloucherie",
+                 "Prenom":"Jocelyne",
+                 "NomCollectif":null
+              }
+           ],
+           "Mediums":[
+     
+           ],
+           "NoInterne":1099,
+           "NumeroAccession":"2004-SC-08"
+        },
+        {
+           "Titre":"Regarder les pommetiers",
+           "ID":3,
+           "TitreVariante":null,
+           "DateFinProduction":"\/Date(1177992000000-0400)\/",
+           "NomCollection":"Art public",
+           "NomCollectionAng":"Public art",
+           "CategorieObjet":"Beaux-arts",
+           "CategorieObjetAng":"Fine Arts",
+           "SousCategorieObjet":"Installation",
+           "SousCategorieObjetAng":"Installation",
+           "ModeAcquisition":"Commande publique de la ville de Montréal (Concours par avis public)",
+           "ModeAcquisitionAng":"Public commission from the Ville de Montréal (competition by public notice)",
+           "DateAccession":"\/Date(1156996800000-0400)\/",
+           "Materiaux":"Acier corten; granit",
+           "MateriauxAng":"Corten steel; granite",
+           "Support":null,
+           "SupportAng":null,
+           "Technique":"Taillé; assemblé",
+           "TechniqueAng":"Carved; assembled",
+           "DimensionsGenerales":"294 x 600 x 182",
+           "Arrondissement":"Rosemont–La Petite-Patrie",
+           "Parc":"Jardin botanique",
+           "Batiment":"Jardin botanique",
+           "AdresseCivique":"4101, rue Sherbrooke Est, Montréal (QC) H1X 2B2",
+           "CoordonneeLatitude":"45.561585",
+           "CoordonneeLongitude":"-73.562673",
+           "Artistes":[
+              {
+                 "NoInterne":1098,
+                 "Nom":"Alloucherie",
+                 "Prenom":"Jocelyne",
+                 "NomCollectif":null
+              }
+           ],
+           "Mediums":[
+     
+           ],
+           "NoInterne":1119,
+           "NumeroAccession":"2007-SC-01"
+        },
+        {
+           "Titre":"Le malheureux magnifique",
+           "ID":4,
+           "TitreVariante":null,
+           "DateFinProduction":"\/Date(85032000000-0400)\/",
+           "NomCollection":"Art public",
+           "NomCollectionAng":"Public art",
+           "CategorieObjet":"Beaux-arts",
+           "CategorieObjetAng":"Fine Arts",
+           "SousCategorieObjet":"Sculpture",
+           "SousCategorieObjetAng":"Sculpture",
+           "ModeAcquisition":"Achat directement à l'artiste",
+           "ModeAcquisitionAng":"Purchase directly from the artist",
+           "DateAccession":"\/Date(677995200000-0400)\/",
+           "Materiaux":"Ciment; fer; peinture",
+           "MateriauxAng":"Cement; iron; paint",
+           "Support":null,
+           "SupportAng":null,
+           "Technique":"Assemblé; cimenté; peint",
+           "TechniqueAng":"Assembled; cemented; painted",
+           "DimensionsGenerales":"340 x 235 x 310",
+           "Arrondissement":"Le Plateau-Mont-Royal",
+           "Parc":"Intersection des rues Sherbrooke et Saint-Denis",
+           "Batiment":null,
+           "AdresseCivique":"385, rue Sherbrooke Est, Montréal, (QC) H2X 3L1",
+           "CoordonneeLatitude":"45.516907",
+           "CoordonneeLongitude":"-73.567846",
+           "Artistes":[
+              {
+                 "NoInterne":1135,
+                 "Nom":"Angers",
+                 "Prenom":"Pierre Yves",
+                 "NomCollectif":null
+              }
+           ],
+           "Mediums":[
+     
+           ],
+           "NoInterne":1127,
+           "NumeroAccession":"910021.0"
+        },
+        {
+           "Titre":"Discours du roi poète",
+           "ID":5,
+           "TitreVariante":null,
+           "DateFinProduction":"\/Date(410158800000-0500)\/",
+           "NomCollection":"Art public",
+           "NomCollectionAng":"Public art",
+           "CategorieObjet":"Beaux-arts",
+           "CategorieObjetAng":"Fine Arts",
+           "SousCategorieObjet":"Sculpture",
+           "SousCategorieObjetAng":"Sculpture",
+           "ModeAcquisition":"Don",
+           "ModeAcquisitionAng":"Donation",
+           "DateAccession":null,
+           "Materiaux":"Calcaire",
+           "MateriauxAng":"Limestone",
+           "Support":null,
+           "SupportAng":null,
+           "Technique":null,
+           "TechniqueAng":null,
+           "DimensionsGenerales":"233 X 56 X 63 cm",
+           "Arrondissement":"Le Sud-Ouest",
+           "Parc":"Place Roland-Proulx",
+           "Batiment":null,
+           "AdresseCivique":null,
+           "CoordonneeLatitude":"45.472390",
+           "CoordonneeLongitude":"-73.584704",
+           "Artistes":[
+              {
+                 "NoInterne":1152,
+                 "Nom":"Arsenault",
+                 "Prenom":"Denise",
+                 "NomCollectif":null
+              }
+           ],
+           "Mediums":[
+     
+           ],
+           "NoInterne":1151,
+           "NumeroAccession":"1982-APE-SC-18"
+        },
+        {
+           "Titre":"Hommage à Jérôme Le Royer De La Dauversière",
+           "ID":6,
+           "TitreVariante":null,
+           "DateFinProduction":"\/Date(915166800000-0500)\/",
+           "NomCollection":"Art public",
+           "NomCollectionAng":"Public art",
+           "CategorieObjet":"Beaux-arts",
+           "CategorieObjetAng":"Fine Arts",
+           "SousCategorieObjet":"Sculpture",
+           "SousCategorieObjetAng":"Sculpture",
+           "ModeAcquisition":"Commande publique de la Ville de Montréal",
+           "ModeAcquisitionAng":"Public commission from the Ville de Montréal",
+           "DateAccession":null,
+           "Materiaux":"Acier Corten; acier inoxydable; verre trempé",
+           "MateriauxAng":"Corten steel; stainless steel; tempered glass",
+           "Support":null,
+           "SupportAng":null,
+           "Technique":null,
+           "TechniqueAng":null,
+           "DimensionsGenerales":"84 x 193 x 81",
+           "Arrondissement":"Ville-Marie",
+           "Parc":"Place De La Dauversière",
+           "Batiment":null,
+           "AdresseCivique":null,
+           "CoordonneeLatitude":"45.508493",
+           "CoordonneeLongitude":"-73.5533",
+           "Artistes":[
+              {
+                 "NoInterne":1156,
+                 "Nom":null,
+                 "Prenom":null,
+                 "NomCollectif":"Atelier TAG"
+              }
+           ],
+           "Mediums":[
+     
+           ],
+           "NoInterne":1157,
+           "NumeroAccession":"1999-SC-04"
+        },
+        {
+           "Titre":"Obélisque oblique",
+           "ID":7,
+           "TitreVariante":null,
+           "DateFinProduction":"\/Date(-94676400000-0500)\/",
+           "NomCollection":"Art public",
+           "NomCollectionAng":"Public art",
+           "CategorieObjet":"Beaux-arts",
+           "CategorieObjetAng":"Fine Arts",
+           "SousCategorieObjet":"Sculpture",
+           "SousCategorieObjetAng":"Sculpture",
+           "ModeAcquisition":"Autre",
+           "ModeAcquisitionAng":"Other",
+           "DateAccession":null,
+           "Materiaux":"Acier inoxydable",
+           "MateriauxAng":"Stainless steel",
+           "Support":null,
+           "SupportAng":null,
+           "Technique":"Pliées; soudées; boulonnées",
+           "TechniqueAng":"Bends; welded; bolted",
+           "DimensionsGenerales":"546 x 160 x 190",
+           "Arrondissement":"Ville-Marie",
+           "Parc":"Parc Jean-Drapeau, Île Notre-Dame",
+           "Batiment":"Casino de Montréal",
+           "AdresseCivique":"1 Avenue du Casino, Montréal, QC H3C 4W7",
+           "CoordonneeLatitude":"45.506046",
+           "CoordonneeLongitude":"-73.526706",
+           "Artistes":[
+              {
+                 "NoInterne":1173,
+                 "Nom":"Adam",
+                 "Prenom":"Henri-Georges",
+                 "NomCollectif":null
+              }
+           ],
+           "Mediums":[
+     
+           ],
+           "NoInterne":1391,
+           "NumeroAccession":"901425.0"
+        },
+        {
+           "Titre":"La source",
+           "ID":8,
+           "TitreVariante":"Sergenti",
+           "DateFinProduction":"\/Date(913438800000-0500)\/",
+           "NomCollection":"Art public",
+           "NomCollectionAng":"Public art",
+           "CategorieObjet":"Beaux-arts",
+           "CategorieObjetAng":"Fine Arts",
+           "SousCategorieObjet":"Sculpture",
+           "SousCategorieObjetAng":"Sculpture",
+           "ModeAcquisition":"Don",
+           "ModeAcquisitionAng":"Donation",
+           "DateAccession":"\/Date(978325200000-0500)\/",
+           "Materiaux":"Calcaire",
+           "MateriauxAng":"Limestone",
+           "Support":null,
+           "SupportAng":null,
+           "Technique":"Taillé",
+           "TechniqueAng":"Carved",
+           "DimensionsGenerales":null,
+           "Arrondissement":"Rosemont–La Petite-Patrie",
+           "Parc":"Parc Guglielmo-Marconi",
+           "Batiment":null,
+           "AdresseCivique":null,
+           "CoordonneeLatitude":"45.534752",
+           "CoordonneeLongitude":"-73.617845",
+           "Artistes":[
+              {
+                 "NoInterne":1394,
+                 "Nom":"Antoci",
+                 "Prenom":"Rosario",
+                 "NomCollectif":null
+              }
+           ],
+           "Mediums":[
+     
+           ],
+           "NoInterne":1393,
+           "NumeroAccession":"2001-SC-10"
+        },
+        {
+           "Titre":"Vous êtes ici",
+           "ID":9,
+           "TitreVariante":null,
+           "DateFinProduction":"\/Date(1136091600000-0500)\/",
+           "NomCollection":"Intégration à l'architecture",
+           "NomCollectionAng":"Integration with architecture",
+           "CategorieObjet":"Beaux-arts",
+           "CategorieObjetAng":"Fine Arts",
+           "SousCategorieObjet":"Installation",
+           "SousCategorieObjetAng":"Installation",
+           "ModeAcquisition":"Autre",
+           "ModeAcquisitionAng":"Other",
+           "DateAccession":null,
+           "Materiaux":"Aluminium; DEL",
+           "MateriauxAng":"Aluminum; LED",
+           "Support":null,
+           "SupportAng":null,
+           "Technique":null,
+           "TechniqueAng":null,
+           "DimensionsGenerales":"3000 x 1000 cm",
+           "Arrondissement":"Mercier–Hochelaga-Maisonneuve",
+           "Parc":null,
+           "Batiment":"Maison de la culture Maisonneuve",
+           "AdresseCivique":"4200, rue Ontario Est, Montréal, H1V 1K1",
+           "CoordonneeLatitude":"45.551183",
+           "CoordonneeLongitude":"-73.540539",
+           "Artistes":[
+              {
+                 "NoInterne":1396,
+                 "Nom":"Aquino",
+                 "Prenom":"Eduardo",
+                 "NomCollectif":null
+              }
+           ],
+           "Mediums":[
+     
+           ],
+           "NoInterne":1397,
+           "NumeroAccession":"2006-IA-IN-0001"
+        },
+        {
+           "Titre":"Non titré (Murale en relief et sculpture)",
+           "ID":10,
+           "TitreVariante":"Murale en relief et sculpture (extérieur)",
+           "DateFinProduction":"\/Date(-252442800000-0500)\/",
+           "NomCollection":"Intégration à l'architecture",
+           "NomCollectionAng":"Integration with architecture",
+           "CategorieObjet":"Beaux-arts",
+           "CategorieObjetAng":"Fine Arts",
+           "SousCategorieObjet":"Sculpture",
+           "SousCategorieObjetAng":"Sculpture",
+           "ModeAcquisition":null,
+           "ModeAcquisitionAng":null,
+           "DateAccession":null,
+           "Materiaux":null,
+           "MateriauxAng":null,
+           "Support":null,
+           "SupportAng":null,
+           "Technique":null,
+           "TechniqueAng":null,
+           "DimensionsGenerales":null,
+           "Arrondissement":"Le Plateau-Mont-Royal",
+           "Parc":null,
+           "Batiment":"Centre du Plateau",
+           "AdresseCivique":"2275 boul.St-Joseph Est, Montréal, (Qc) H2H 1G4",
+           "CoordonneeLatitude":"45.539713",
+           "CoordonneeLongitude":"-73.576110",
+           "Artistes":[
+              {
+                 "NoInterne":6661,
+                 "Nom":"Streubel",
+                 "Prenom":"Heinrich",
+                 "NomCollectif":null
+              }
+           ],
+           "Mediums":[
+     
+           ],
+           "NoInterne":1399,
+           "NumeroAccession":"1962-IA-SC-0001"
+        },
+        {
+           "Titre":"Non titré (Vitraux)",
+           "ID":11,
+           "TitreVariante":"Vitraux",
+           "DateFinProduction":"\/Date(-2903194800000-0500)\/",
+           "NomCollection":"Intégration à l'architecture",
+           "NomCollectionAng":"Integration with architecture",
+           "CategorieObjet":"Arts décoratifs",
+           "CategorieObjetAng":"Decorative Arts",
+           "SousCategorieObjet":"Vitrail",
+           "SousCategorieObjetAng":"Stained Glass",
+           "ModeAcquisition":null,
+           "ModeAcquisitionAng":null,
+           "DateAccession":null,
+           "Materiaux":null,
+           "MateriauxAng":null,
+           "Support":null,
+           "SupportAng":null,
+           "Technique":null,
+           "TechniqueAng":null,
+           "DimensionsGenerales":null,
+           "Arrondissement":"Ville-Marie",
+           "Parc":null,
+           "Batiment":"Hôtel de Ville de Montréal",
+           "AdresseCivique":"275 Rue Notre-Dame Est, Montréal, QC H2Y 1C6",
+           "CoordonneeLatitude":"45.508816",
+           "CoordonneeLongitude":"-73.554069",
+           "Artistes":[
+              {
+                 "NoInterne":1398,
+                 "Nom":"Inconnu",
+                 "Prenom":"Auteur",
+                 "NomCollectif":null
+              }
+           ],
+           "Mediums":[
+     
+           ],
+           "NoInterne":1400,
+           "NumeroAccession":"1878-IA-VT-0001"
+        },
+        {
+           "Titre":"Non titré (Vitraux)",
+           "ID":12,
+           "TitreVariante":"Vitraux",
+           "DateFinProduction":"\/Date(-2272042800000-0500)\/",
+           "NomCollection":"Intégration à l'architecture",
+           "NomCollectionAng":"Integration with architecture",
+           "CategorieObjet":"Arts décoratifs",
+           "CategorieObjetAng":"Decorative Arts",
+           "SousCategorieObjet":"Vitrail",
+           "SousCategorieObjetAng":"Stained Glass",
+           "ModeAcquisition":null,
+           "ModeAcquisitionAng":null,
+           "DateAccession":null,
+           "Materiaux":null,
+           "MateriauxAng":null,
+           "Support":null,
+           "SupportAng":null,
+           "Technique":null,
+           "TechniqueAng":null,
+           "DimensionsGenerales":null,
+           "Arrondissement":"Le Plateau-Mont-Royal",
+           "Parc":null,
+           "Batiment":"Bibliothèque Mile-End",
+           "AdresseCivique":"5434 Avenue du Parc, Montréal, QC H2V 4G7",
+           "CoordonneeLatitude":"45.521778",
+           "CoordonneeLongitude":"-73.601548",
+           "Artistes":[
+              {
+                 "NoInterne":1398,
+                 "Nom":"Inconnu",
+                 "Prenom":"Auteur",
+                 "NomCollectif":null
+              }
+           ],
+           "Mediums":[
+     
+           ],
+           "NoInterne":1401,
+           "NumeroAccession":"1898-IA-VT-0001"
+        },
+        {
+           "Titre":"Non titré (Vitraux)",
+           "ID":13,
+           "TitreVariante":"Vitraux",
+           "DateFinProduction":"\/Date(-1672513200000-0500)\/",
+           "NomCollection":"Intégration à l'architecture",
+           "NomCollectionAng":"Integration with architecture",
+           "CategorieObjet":"Arts décoratifs",
+           "CategorieObjetAng":"Decorative Arts",
+           "SousCategorieObjet":"Vitrail",
+           "SousCategorieObjetAng":"Stained Glass",
+           "ModeAcquisition":null,
+           "ModeAcquisitionAng":null,
+           "DateAccession":null,
+           "Materiaux":null,
+           "MateriauxAng":null,
+           "Support":null,
+           "SupportAng":null,
+           "Technique":null,
+           "TechniqueAng":null,
+           "DimensionsGenerales":null,
+           "Arrondissement":"Ville-Marie",
+           "Parc":null,
+           "Batiment":"Édifice Gaston-Miron",
+           "AdresseCivique":"1210, rue Sherbrooke Est, Montréal (Québec) H2L 1L9",
+           "CoordonneeLatitude":"45.522741",
+           "CoordonneeLongitude":"-73.565331",
+           "Artistes":[
+              {
+                 "NoInterne":1398,
+                 "Nom":"Inconnu",
+                 "Prenom":"Auteur",
+                 "NomCollectif":null
+              }
+           ],
+           "Mediums":[
+     
+           ],
+           "NoInterne":1402,
+           "NumeroAccession":"1917-IA-VT-0001"
+        }
+    ]
+}
