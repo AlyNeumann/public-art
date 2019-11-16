@@ -1,4 +1,4 @@
-import React, {useState} from 'react';
+import React, {useState, useEffect} from 'react';
 import ReactMapGL, {Marker, Popup} from "react-map-gl";
 import dotenv from 'dotenv';
 import * as artData from "./data/art.json";
@@ -9,11 +9,25 @@ function App() {
     //MTL
     latitude: 45.485270,
     longitude: -73.581420,
-    width: '100vw',
-    height: '100vh',
-    zoom: 10
+    width: window.innerWidth,
+    height: window.innerHeight,
+    zoom: 10.8
   })
  const [selectedArt, setSelectedArt] = useState(null);
+
+ useEffect(() => {
+   const handleResize= () => {
+    setViewport({
+      ...viewport,
+      width: window.innerWidth,
+      height: window.innerHeight,
+    })
+   };
+   window.addEventListener('resize', handleResize);
+   return () => {
+     window.removeEventListener('resize', handleResize);
+   }
+ })
 
  return(
    <div>
@@ -55,6 +69,7 @@ function App() {
         <div>
         <h2>Pièce : {selectedArt.Titre}</h2>
 <h3>Artiste : {selectedArt.Artistes[0].Prenom} {selectedArt.Artistes[0].Nom}</h3>
+{/* TODO: some addresses set to null, catch this */}
         <p>Addresse : {selectedArt.AdresseCivique}</p>
         </div>
       </Popup>
