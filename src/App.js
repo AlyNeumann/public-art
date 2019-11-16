@@ -2,9 +2,11 @@ import React, {useState, useEffect} from 'react';
 import ReactMapGL, {Marker, Popup} from "react-map-gl";
 import dotenv from 'dotenv';
 import * as artData from "./data/art.json";
+import useLocation from "./hooks/useLocation";
 
 function App() {
   dotenv.config();
+  const location = useLocation();
   const [viewport, setViewport] = useState({
     //MTL
     latitude: 45.485270,
@@ -28,10 +30,20 @@ function App() {
      window.removeEventListener('resize', handleResize);
    }
  })
+ useEffect(() => {
+  if (location) {
+    setViewport((vp) => ({
+      ...vp,
+      ...location,
+      zoom: 11,
+    }));
+  }
+}, [location, setViewport]);
 
  return(
    <div>
      <ReactMapGL
+     
       {...viewport}
       mapboxApiAccessToken={process.env.REACT_APP_MAPBOX_TOKEN}
       mapStyle="mapbox://styles/alymarguerite/ck30gb37i0ynh1cm8m7xlk465"
@@ -57,6 +69,16 @@ function App() {
             </button>
           </Marker>
         ))}
+       {location ? (
+          <Marker
+            latitude={location.latitude}
+            longitude={location.longitude}
+            offsetLeft={-20}
+            offsetTop={-10}
+          >
+            <span style={{ fontSize: `${viewport.zoom * 0.5}rem` }}>📸</span>
+          </Marker>
+        ) : null}
         {selectedArt ? (
       <Popup 
       className="pop-up"
