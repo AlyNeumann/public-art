@@ -93,6 +93,7 @@ function App() {
 <h3>Artiste : {selectedArt.Artistes[0].Prenom} {selectedArt.Artistes[0].Nom}</h3>
 {/* TODO: some addresses set to null, catch this */}
         <p>Addresse : {selectedArt.AdresseCivique}</p>
+        <button>cliqué pour les directions</button>
         </div>
       </Popup>
         ) : null}
