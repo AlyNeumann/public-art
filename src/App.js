@@ -1,16 +1,11 @@
 import React, {useState} from 'react';
-import ReactMapGL, {Marker} from "react-map-gl";
+import ReactMapGL, {Marker, Popup} from "react-map-gl";
 import dotenv from 'dotenv';
 import * as artData from "./data/art.json";
-// import * as artData from "./data/skateboard-parks.json";
-
 
 function App() {
   dotenv.config();
   const [viewport, setViewport] = useState({
-    //OTTAWA
-    // latitude: 45.4211,
-    // longitude: -75.6903,
     //MTL
     latitude: 45.485270,
     longitude: -73.581420,
@@ -18,10 +13,8 @@ function App() {
     height: '100vh',
     zoom: 10
   })
-  const markerStyle = {
-    fontSize: '15px',
-    color: 'black'
-  }
+ const [selectedArt, setSelectedArt] = useState(null);
+
  return(
    <div>
      <ReactMapGL
@@ -38,10 +31,34 @@ function App() {
           key={art.NoInterne}
           longitude={JSON.parse(art.CoordonneeLongitude)}
           latitude={JSON.parse(art.CoordonneeLatitude)}
-          >
-            <div style={markerStyle}>ART</div>
+         >
+            <button 
+            className="marker-btn"
+             onClick={e => {
+              e.preventDefault();
+              setSelectedArt(art);
+    }}
+            >
+              <img src="/images/easel_1.png" alt="palette icon"/>
+            </button>
           </Marker>
         ))}
+        {selectedArt ? (
+      <Popup 
+      className="pop-up"
+      latitude={JSON.parse(selectedArt.CoordonneeLatitude)}
+      longitude={JSON.parse(selectedArt.CoordonneeLongitude)}
+      onClose={() => {
+        setSelectedArt(null);
+      }}
+      >
+        <div>
+        <h2>Pièce : {selectedArt.Titre}</h2>
+<h3>Artiste : {selectedArt.Artistes[0].Prenom} {selectedArt.Artistes[0].Nom}</h3>
+        <p>Addresse : {selectedArt.AdresseCivique}</p>
+        </div>
+      </Popup>
+        ) : null}
      </ReactMapGL>
    </div>
  );
